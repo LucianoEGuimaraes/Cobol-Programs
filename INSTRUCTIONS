@@ -1,0 +1,8 @@
+* Programas feitos no Fourcamp 2022 *
+
+- Instruções para rodar os programas:
+
+1. Baixe todos os arquivos.
+2. Faça upload para mainframe/emulador - TSO.
+3. Altere o membro com os programas ou crie um diretório com o nome CBPRGLIB. É necessário para que o compilador funcione.
+4. Não esqueça de fazer upload da book e arquivos caso o programa tenha manipulação de arquivos.
