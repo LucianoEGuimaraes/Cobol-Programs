@@ -1,9 +1,9 @@
-                     ___________________                               00000106
-----------------------|LUCIANO GUIMARAES|------------------------------ 00000206
-                       _________________                                00000306
------------------------|PROGRAMAS COBOL|--------------------------------00000406
-     |*FR16CB01: PRIMEIRO PROGRAMA - USO DE UM DISPLAY.                 00000504
-     |*FR16CB02: DISPLAY DE NOME E SALARIO COM VARIAVEIS NA SYSIN.      00000604
+                     ___________________                                
+----------------------|LUCIANO GUIMARAES|------------------------------  
+                       _________________                                 
+-----------------------|PROGRAMAS COBOL|------------------------------- 
+     |*FR16CB01: PRIMEIRO PROGRAMA - USO DE UM DISPLAY.                 
+     |*FR16CB02: DISPLAY DE NOME E SALARIO COM VARIAVEIS NA SYSIN.       
      |*FR16CB03: QUEBRA DE VARIAVEL EM FILHOS E USO DE DISPLAY.         00000704
      |*FR16CB04: UTILIZACAO DE FILLER EM VARIAVEL.                      00000804
      |*FR16CB05: RECEBER UMA DATA DO SISTEMA E DAR DISPLAY.             00000904
